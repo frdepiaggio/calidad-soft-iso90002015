@@ -5,7 +5,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Grupo 2',
+  title: 'ISO 9000:2015 - Grupo 2',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -22,6 +22,10 @@ module.exports = {
     [
       'meta',
       { name: 'apple-mobile-web-app-status-bar-style', content: 'black' },
+    ],
+    [
+      'link',
+      { rel: 'icon', type: 'image/png', sizes: '172x172', href: '/utn2.png' },
     ],
   ],
 
