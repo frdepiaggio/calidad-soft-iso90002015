@@ -1,6 +1,7 @@
 const { description } = require('../../package');
 
 module.exports = {
+  base: '/calidad-sw-g2.github.io/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */

@@ -4,7 +4,7 @@
 set -e
 
 # build
-npm run docs:build
+yarn build
 
 # navigate into the build output directory
 cd docs/.vuepress/dist
@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:frdepiaggio/calidad-sw-g2.git master:gh-pages
+git push -f https://github.com/frdepiaggio/calidad-sw-g2.github.io.git master
 
 cd -
