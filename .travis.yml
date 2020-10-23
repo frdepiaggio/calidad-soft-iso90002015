@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - lts/*
+install:
+  - yarn install # npm ci
+script:
+  - yarn docs:build # npm run docs:build
+deploy:
+  repo: frdepiaggio/calidad-sw-g2.github.io
+  provider: pages
+  skip_cleanup: true
+  local_dir: docs/.vuepress/dist
+  github_token: 84c9a0310db54476e3535de04fed969a6bd367db # A token generated on GitHub allowing Travis to push code on you repository. Set in the Travis settings page of your repository, as a secure variable
+  keep_history: true
+  on:
+    branch: master
