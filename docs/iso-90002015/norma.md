@@ -9,3 +9,8 @@ Es una norma internacional que especifica los término y definiciones que se apl
 - Organizaciones que realizan evaluaciones de la conformidad frente a los requisitos de la norma ISO 9001
 - Proveedores de formación, evaluación o asesoramiento en gestión de la calidad
 - Aquellos que desarrollan normas relacionadas
+
+<br>
+
+_Familia de normas ISO_
+![Familia_de_normas](../assets/familia_norma.jpg 'Familia de normas ISO')

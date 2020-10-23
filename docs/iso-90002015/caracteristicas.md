@@ -151,3 +151,9 @@ Las partes interesadas pertinentes influyen en el desempeño de una organizació
   -	Medir el desempeño y proporcionar retroalimentación del desempeño a las partes interesadas, cuando sea apropiado, para aumentar las iniciativas de mejora
   -	Establecer actividades de desarrollo y mejora colaborativas con los proveedores, los socios y otras partes interesadas
   -	Fomentar y reconocer las mejoras y los logros de los proveedores y los socios
+
+
+<br>
+
+_Cambios entre ISO 9000:2005 y 9000:2015_
+![Cambio_2015](../assets/cambios2015.jpg 'Cambios entre ISO 9000:2005 y 9000:2015')

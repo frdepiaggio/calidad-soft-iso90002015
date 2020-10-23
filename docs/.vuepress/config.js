@@ -57,7 +57,7 @@ module.exports = {
         {
           title: 'Extras',
           collapsable: false,
-          children: ['referencias-utiles', 'preguntas'],
+          children: ['referencias-utiles', 'preguntas', 'cuestionario'],
         },
       ],
     },
