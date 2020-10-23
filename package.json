@@ -1,0 +1,22 @@
+{
+  "name": "grupo-2",
+  "version": "0.0.1",
+  "description": "Calidad de Software 2020",
+  "main": "index.js",
+  "authors": {
+    "name": "Franco Depiaggio",
+    "email": "franco.depi@gmail.com"
+  },
+  "repository": "/grupo-2",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-theme-default-prefers-color-scheme": "^1.1.2"
+  }
+}
